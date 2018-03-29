@@ -1,6 +1,6 @@
 <?php 
 function generatePassword() {
-  //Initialize the random password
+  //Initialize the random password Here.
   $password = '';
 
   //Initialize a random desired length
