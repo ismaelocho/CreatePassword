@@ -3,7 +3,7 @@ function generatePassword() {
   //Initialize the random password Here.
   $password = '';
 
-  //Initialize a random desired length
+  //Initialize a random length
   $desired_length = rand(8, 12);
 
   for($length = 0; $length < $desired_length; $length++) {
